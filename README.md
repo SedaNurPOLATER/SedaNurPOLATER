@@ -8,8 +8,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/sedanurpolater/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@sedanurpolater) 
 [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-C13584?style=flat-quare&labelColor=C13584&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/sedanurpolater/) 
-
-
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=SedaNurPOLATER&show_icons=true&theme=radical)
