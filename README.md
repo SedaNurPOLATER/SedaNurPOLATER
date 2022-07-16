@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on artificial intelligence.
 - 🌱 I’m currently learning data science, deep learning and machine learning.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sedanurpolater7@gmail.com) 
- or social media
+- 📫 How to reach me: (sedanurpolater7@gmail.com) or social media
 
 [![Linkedln Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedanurpolater/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sedanurpolater/) 
