@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**SedaNurPOLATER/SedaNurPOLATER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on artificial intelligence.
 - 🌱 I’m currently learning data science, deep learning and machine learning.
 - 📫 How to reach me: sedanurpolater7@gmail.com or social media
