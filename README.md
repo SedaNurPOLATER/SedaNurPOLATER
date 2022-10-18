@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on artificial intelligence.
+- 🔭 I’m currently working on Frontend.
 
-- 🌱 I’m currently learning data science, deep learning and machine learning.
+- 🌱 I’m currently learning data science, deep learning, machine learning, React, Angular.
 
 - 📫 How to reach me: sedanurpolater7@gmail.com
 
