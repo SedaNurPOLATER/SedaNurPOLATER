@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Frontend.
+- 🔭 I’m currently working on Frontend and artificial intelligence.
 
 - 🌱 I’m currently learning data science, deep learning, machine learning, React, Angular.
 
