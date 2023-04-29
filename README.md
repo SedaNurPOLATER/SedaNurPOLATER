@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Frontend and artificial intelligence.
+- 🔭 I am currently working as a full stack developer with C#, JavaScript, SQL and I am doing research on artificial intelligence as a hobby.
 
-- 🌱 I’m currently learning data science, deep learning, machine learning, React, Angular.
+- 🌱I am currently learning data science, deep learning, machine learning.
 
 - 📫 How to reach me: sedanurpolater7@gmail.com
 
