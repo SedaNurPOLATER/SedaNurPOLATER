@@ -14,3 +14,6 @@ Here's a bit more about me:
 
 <a href="https://stackoverflow.com/users/18040865/seda-nur-polater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sedanurpolater)
+
+
