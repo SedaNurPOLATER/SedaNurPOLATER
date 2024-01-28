@@ -1,17 +1,16 @@
-### Hi there 👋
+### Hello there! 👋
 
+I'm a passionate full-stack developer with expertise in C#, JavaScript, and SQL. I'm currently immersed in the world of software development, working on exciting projects while exploring the fascinating realm of artificial intelligence in my spare time.
 
-- 🔭 I am currently working as a full stack developer with C#, JavaScript, SQL and I am doing research on artificial intelligence as a hobby.
+Here's a bit more about me:
 
-- 🌱I am currently learning data science, deep learning, machine learning.
+- 🔭 As a full-stack developer, I enjoy crafting robust and scalable solutions, tackling challenges with creativity and precision.
+  
+- 🌱 My current focus is on enhancing my skills in data science, deep learning, and machine learning. I'm fascinated by the potential of AI to revolutionize industries and improve lives.
 
-- 📫 How to reach me: sedanurpolater7@gmail.com
+- 💡 I'm always eager to learn new technologies and methodologies, constantly seeking opportunities to grow both personally and professionally.
 
-#
-<p align="center"
+- 📫 Want to connect or collaborate? Feel free to reach out to me at sedanurpolater7@gmail.com. I'm open to new ideas, discussions, and projects!
 
-<a href="https://www.linkedin.com/in/sedanurpolater/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sedanurpolater/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://medium.com/@sedanurpolater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18040865/seda-nur-polater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
